@@ -1,2 +1,2 @@
 # best-repo-ever
-Testing git commits on new-branch-1
+Testing git commits - merged
